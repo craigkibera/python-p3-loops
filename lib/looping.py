@@ -3,11 +3,11 @@
 def happy_new_year():
     # code goes here!
     pass
-    countdown = 10  # Start counting down from 10
-    while countdown >= 1:  # Continue looping while countdown is greater than or equal to 1
-        print(countdown)  # Print the current countdown number
-        countdown -= 1  # Decrement the countdown by 1
-    print("Happy New Year!")  # Print "Happy New Year!" after the loop finishes
+    countdown = 10  
+    while countdown >= 1:  
+        print(countdown)  
+        countdown -= 1  
+    print("Happy New Year!")  
 
 happy_new_year()
 
